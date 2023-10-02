@@ -4,7 +4,9 @@ This is my alternative site
 My Socials
 ======
 
-[YouTube](https://www.drevilyt.github.io/uwudrev)
+[YouTube](https://www.youtube.com/@xdrev)
+[Twitter (X)](https://www.twitter.com/@drevilyoutube)
+[Discord](https://www.dsc.gg/drevcorp)
 
 URLs and URLs in angle brackets will automatically get turned into links. 
 http://www.example.com or <http://www.example.com> and sometimes 

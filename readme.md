@@ -1,5 +1,4 @@
-Welcome to drevilyt.github.io
-This is my alternative site
+Welcome
 
 My Socials
 ======
@@ -8,12 +7,19 @@ My Socials
 [Twitter (X)](https://www.twitter.com/@drevilyoutube)
 [Discord](https://www.dsc.gg/drevcorp)
 
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
+Colons can be used to align columns.
 
-Some text to show that the reference links can follow later.
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+There must be at least 3 dashes separating each header cell.
+The outer pipes (|) are optional, and you don't need to make the 
+raw Markdown line up prettily. You can also use inline Markdown.
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3

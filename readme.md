@@ -6,7 +6,7 @@ My Socials
 [YouTube](https://www.youtube.com/@xdrev)
 [Twitter (X)](https://www.twitter.com/@drevilyoutube)
 [Discord](https://www.dsc.gg/drevcorp)
-[Steam](https://steamcommunity.com/id/drevilyt/screenshots/?appid=1229490)
+[Steam](https://steamcommunity.com/id/drevilyt)
 
 My Projects
 ======
